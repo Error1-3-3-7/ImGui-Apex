@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(149,31): warning C4456: declaration of 'tabb' hides previous local declaration
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(96,14): message : see declaration of 'tabb'
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(188,40): warning C4456: declaration of 'Checkbox' hides previous local declaration
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(163,25): message : see declaration of 'Checkbox'
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(69,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(130,14): warning C4101: 'MemoryAim': unreferenced local variable
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(96,14): warning C4189: 'tabb': local variable is initialized but not referenced
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(464): warning C4702: unreachable code
+  example_win32_directx9.vcxproj -> E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\Debug\example_win32_directx9.exe

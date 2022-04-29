@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(67,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(95,14): warning C4101: 'diskdrive': unreferenced local variable
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(94,14): warning C4101: 'Motherboard': unreferenced local variable
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(96,14): warning C4101: 'ram': unreferenced local variable
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(93,14): warning C4101: 'Screen': unreferenced local variable
+  Generating code
+E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\main.cpp(225): warning C4702: unreachable code
+  5 of 1194 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx9.vcxproj -> E:\Coding (CHEATS)\imgui-master\examples\example_win32_directx9\Release\example_win32_directx9.exe
